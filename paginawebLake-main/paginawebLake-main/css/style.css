@@ -1,0 +1,18 @@
+body{        
+background-color: rgb(0, 0, 0);
+background-image: url("../img/yy.webp");
+background-repeat: no-repeat;
+background-size: cover;
+
+color:rgba(0, 0, 0, 0.938);
+}
+.inicio{
+display:flex;
+flex-direction: column;
+align-items: center;
+}
+
+
+
+
+}
